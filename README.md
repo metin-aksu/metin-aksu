@@ -10,6 +10,8 @@
 * Veritabanı için : MySQL, SQLServer
 kullandım. 
 
-Şimdilerde backend de Java, frontend de React kullanarak uygulamalar geliştirmeye çalışıyorum.
+Şimdilerde 
+* Backend de **Java**
+* Frontend de **React** kullanarak uygulamalar geliştirmeye çalışıyorum.
 
-React Native kullanarak mobil uygulama geliştirme konusu üzerinde de kendimi geliştirmeye çalışıyorum.
+**React Native** kullanarak mobil uygulama geliştirme konusu üzerinde de kendimi geliştirmeye çalışıyorum.
