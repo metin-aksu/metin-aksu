@@ -7,7 +7,8 @@ I have been actively writing code since 1999. My journey, which started with web
 Until now
 * For Frontend: HTML, CSS, Javascript, Bootstrap, jQuery
 * For Backend : ASP, ASP.NET
-* For database: MySQL, SQLServer
+* For Database: MySQL, SQLServer
+* For Desktop : VB6, VB.NET
 I used
 
 Nowadays
@@ -24,6 +25,7 @@ I am also trying to improve myself on mobile application development using **Rea
 * Frontend için : HTML, CSS, Javascript, Bootstrap, jQuery
 * Backend için : ASP, ASP.NET 
 * Veritabanı için : MySQL, SQLServer
+* Masaüstü için : VB6, VB.NET
 kullandım. 
 
 Şimdilerde 
