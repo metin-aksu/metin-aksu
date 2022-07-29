@@ -12,7 +12,7 @@ Until now
 I used
 
 Nowadays
-* Backend in **Java**
+* Backend in **Java** and **NodeJS**
 * I am trying to develop applications using **React** on the frontend.
 
 I am also trying to improve myself on mobile application development using **React Native**.
@@ -29,7 +29,7 @@ Web geliştirme ile başlayan yolculuğum 2009 yılında masaüstü yazılıma e
 kullandım. 
 
 Şimdilerde 
-* Backend de **Java**
+* Backend de **Java** ve **NodeJS**
 * Frontend de **React** kullanarak uygulamalar geliştirmeye çalışıyorum.
 
 **React Native** kullanarak mobil uygulama geliştirme konusu üzerinde de kendimi geliştirmeye çalışıyorum.
