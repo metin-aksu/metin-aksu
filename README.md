@@ -13,7 +13,7 @@ I used
 
 Nowadays
 * Backend in **Java** and **NodeJS**
-* I am trying to develop applications using **React** on the frontend.
+* I am developing applications using **React** on the frontend.
 * I am using Postgresql and MongoDB as database
 
 I am also trying to improve myself on mobile application development using **React Native**.
@@ -31,7 +31,7 @@ kullandım.
 
 Şimdilerde 
 * Backend de **Java** ve **NodeJS**
-* Frontend de **React** kullanarak uygulamalar geliştirmeye çalışıyorum.
-* Veritabanı olarak Postgresql ve MongoDB kullanıyorum.
+* Frontend de **React** kullanarak uygulamalar geliştiriyorum.
+* Veritabanı olarak **Postgresql** ve **MongoDB** kullanıyorum.
 
 **React Native** kullanarak mobil uygulama geliştirme konusu üzerinde de kendimi geliştirmeye çalışıyorum.
