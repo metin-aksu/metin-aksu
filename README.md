@@ -12,11 +12,10 @@ Until now
 I used
 
 Nowadays
-* Backend in **Java** and **NodeJS**
-* I am developing applications using **React** on the frontend.
-* I am using Postgresql and MongoDB as database
-
-I am also trying to improve myself on mobile application development using **React Native**.
+* Backend in **NodeJS**
+* Frontend in **React**
+* I am developing applications using **React Native** on the mobil.
+* I am using Postgresql, MySQL and MongoDB as database
 
 =====================================================================
 
@@ -30,8 +29,7 @@ I am also trying to improve myself on mobile application development using **Rea
 kullandım. 
 
 Şimdilerde 
-* Backend de **Java** ve **NodeJS**
-* Frontend de **React** kullanarak uygulamalar geliştiriyorum.
-* Veritabanı olarak **Postgresql** ve **MongoDB** kullanıyorum.
-
-**React Native** kullanarak mobil uygulama geliştirme konusu üzerinde de kendimi geliştirmeye çalışıyorum.
+* Backend de **NodeJS**
+* Frontend de **React**
+* Mobil için **React Native** kullanarak uygulamalar geliştiriyorum.
+* Veritabanı olarak **Postgresql**, **MySQL** ve **MongoDB** kullanıyorum.
